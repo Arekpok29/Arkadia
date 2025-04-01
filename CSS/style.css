@@ -201,7 +201,7 @@ h1{
 }
 
 .parallax-hero{
-    background-image: url(/CSS/img/37535D4B-A058-47CE-B35B-214A0B4B80C5-scaled.jpeg);
+    background-image: url(CSS/img/37535D4B-A058-47CE-B35B-214A0B4B80C5-scaled.jpeg);
     min-height: 100vh;
     background-position: bottom;
     filter: brightness(70%);
@@ -209,19 +209,19 @@ h1{
 }
 
 .parallax-one{
-    background-image: url(/CSS/img/basen\ 3.jpg);
+    background-image: url(CSS/img/basen\ 3.jpg);
     min-height: 30rem;
     
 }
 
 .parallax-two{
-    background-image: url(/CSS/img/plac\ 2.jpeg);
+    background-image: url(CSS/img/plac\ 2.jpeg);
     min-height: 30rem;
    
 }
 
 .parallax-three{
-    background-image: url(/CSS/img/zalew_1350.jpg);
+    background-image: url(CSS/img/zalew_1350.jpg);
     min-height: 30rem;
     background-position: top;
 }
@@ -233,14 +233,14 @@ h1{
 }
 
 .parallax-four{
-    background-image: url(/CSS/img/Untitled\ design\ \(19\).png);
+    background-image: url(CSS/img/Untitled\ design\ \(19\).png);
     min-height: 30rem;
     background-position: top;
    
 }
 
 .parallax-five{
-    background-image: url(/CSS/img/Untitled\ design\ \(20\).png);
+    background-image: url(CSS/img/Untitled\ design\ \(20\).png);
     min-height: 30rem;
 }
 
